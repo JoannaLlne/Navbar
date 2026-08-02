@@ -24,7 +24,8 @@ nav {
 }
 
 nav .item {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
+  font-weight: 500;
   display: inline-block;
   position: relative;
   padding: 0 20px;
@@ -34,6 +35,10 @@ nav .item {
   height: 60px;
   line-height: 60px;
   text-align: center;
+}
+
+nav a {
+    font-weight: 300;
 }
 
 .dropdown {
