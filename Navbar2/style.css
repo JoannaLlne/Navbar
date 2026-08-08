@@ -101,7 +101,7 @@ button > i {
     flex: 0 0 auto;
   }
 
-  .navbar-center > button {
+  .navbar-center {
     display: none;
   }
 
