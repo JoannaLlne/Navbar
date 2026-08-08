@@ -114,9 +114,4 @@ button > i {
   }
 }
 
-@media (width <= 400px) {
-  .navbar .navbar-end:last-child > button:nth-child(n + 2) {
-    display: none;
-  }
 
-}
